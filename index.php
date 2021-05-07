@@ -100,18 +100,17 @@ Our top-notch Mobile App developers understand your needs and manifest them into
       </div>
     </section>
 
-    <!--==========================
+    <!--======================= ===
       Services Section
     ============================-->
     <section id="services" class="section-bg">
       <div class="container">
 
         <header class="section-header" style="margin-top: 0px;">
-          <h1>WHAT WE OFFER</h1>
-          
-          <p>Services</p>
+          <h1>Services We Offer</h1>
+ 
         </header>
-		<div class="row row-eq-height justify-content-center">
+		<div class="row row-eq-height justify-content-center mt-5">
 	  <div class="col-md-4 col-lg-4  wow bounceInUp" data-wow-duration="1.4s">
       <div class="card">
         <div class="background"></div>
@@ -233,7 +232,30 @@ Our top-notch Mobile App developers understand your needs and manifest them into
 
       </div>
     </section><!-- #services -->
+    <section class="client">
+	<div class="container">
+		<div class="row">
 
+	
+    <header class="section-header" style="margin-top: 0px;">
+          <h1 id="abouth1">Our Clients</h1>
+         
+        </header>
+
+			<div class="carousel-client">
+            <div class="slide"><img src="img/clients-logo/aya.png" class="client-img"></div>
+      <div class="slide"><img src="img/clients-logo/bhumi.png" class="client-img"></div>
+       <div class="slide"><img src="img/clients-logo/cakecarnival.png" class="client-img"></div>
+       <div class="slide"><img src="img/clients-logo/check.png" class="client-img"></div>
+       <div class="slide"><img src="img/clients-logo/forrest.png" class="client-img"></div>
+       <div class="slide"><img src="img/clients-logo/insta.png" class="client-img"></div>
+       <div class="slide"><img src="img/clients-logo/jayqu.png" class="client-img"></div>
+       <div class="slide"><img src="img/clients-logo/servicexpertz.png" class="client-img"></div>
+       <div class="slide"><img src="img/clients-logo/trojan.png" class="client-img"></div>
+			</div>
+		</div>
+	</div>
+</section>
 
   </main>
 
