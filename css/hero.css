@@ -1,0 +1,484 @@
+.bg-dark {
+  background: #5400c2;
+}
+
+.mt-3 {
+  margin-top: 3rem;
+}
+
+.mb-5 {
+  margin-bottom: 5rem;
+}
+
+.br-7 {
+  border-radius: 7px;
+}
+
+.pl-3 {
+  padding-left: 3rem;
+}
+
+.pb-3 {
+  padding-bottom: 3rem;
+}
+
+.card {
+  border: 2px solid #5400c2;
+  border-radius: 7px;
+  padding: 1rem;
+  position: relative;
+  cursor: default;
+  margin: 0px 0px 35px 0px;
+  color: #5400c2;
+}
+
+.card > * {
+  position: relative;
+  z-index: 1;
+}
+
+.card.dark {
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+.card.dark .background {
+  background: #000;
+}
+
+.card.dark::before {
+  background: white;
+}
+
+.card.dark:hover {
+  color: #5400c2;
+}
+
+.card.dark .card-icon .wrap {
+  background: #5400c2;
+  color: #fff;
+}
+
+.card .background {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #fff;
+  z-index: -1;
+}
+
+.card::before {
+  content: "";
+  width: 0%;
+  height: 100%;
+  position: absolute;
+  border-radius: 0 50% 50% 0;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  background: #5400c2;
+}
+
+.card:hover {
+  color: #fff;
+}
+
+.card:hover::before {
+  border-radius: 0;
+  width: 100%;
+}
+
+.card .card-icon {
+  font-size: 2.5rem;
+  margin-bottom: .75em;
+}
+
+.card .card-icon .wrap {
+  background: #fff;
+  width: 1.7em;
+  height: 1.7em;
+  text-align: center;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: -1.3em;
+  color: #5400c2;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card .card-icon .wrap i {
+  margin-top: .3em;
+}
+
+.card .card-title {
+  font-size: 1.75rem;
+  text-align: center;
+  margin-bottom: .75em;
+}
+
+.card .card-content {
+  padding-left: 1em;
+  padding-right: 1em;
+  text-align: justify;
+}
+
+svg {
+  display: block;
+  margin: 0 auto;
+  max-width: 650px;
+}
+
+g {
+  -webkit-perspective: 150px;
+          perspective: 150px;
+}
+
+#wp_web {
+  overflow: visible;
+}
+
+#wp_web .main_pc, #wp_web .main_tab, #wp_web .main_mob {
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  -webkit-transform: translate3d(0, 70%, 0) scale(0);
+          transform: translate3d(0, 70%, 0) scale(0);
+  -webkit-animation: go .8s ease-in-out forwards;
+          animation: go .8s ease-in-out forwards;
+  -webkit-transform-origin: 40% 45%;
+          transform-origin: 40% 45%;
+}
+
+#wp_web .main_tab {
+  -webkit-transform-origin: 80% 45%;
+          transform-origin: 80% 45%;
+}
+
+#wp_web .main_mob {
+  -webkit-transform-origin: 30% 45%;
+          transform-origin: 30% 45%;
+}
+
+#wp_web .wp_logo {
+  -webkit-transform: scale(1.5);
+          transform: scale(1.5);
+  opacity: 0;
+  -webkit-transform-origin: 15%;
+          transform-origin: 15%;
+  -webkit-animation: zoom .9s ease-in-out forwards 1.6s;
+          animation: zoom .9s ease-in-out forwards 1.6s;
+}
+
+#wp_web .pc_shine {
+  opacity: 0;
+  -webkit-animation: zoom .8s ease-in-out forwards 1.9s;
+          animation: zoom .8s ease-in-out forwards 1.9s;
+}
+
+#wp_web .port {
+  opacity: 0;
+  -webkit-transform: scaley(2);
+          transform: scaley(2);
+  -webkit-animation: zoom 1s ease-in-out forwards .5s;
+          animation: zoom 1s ease-in-out forwards .5s;
+}
+
+#wp_web .port path {
+  -webkit-transform: rotate(2deg);
+          transform: rotate(2deg);
+  -webkit-transform-origin: 80% 90%;
+          transform-origin: 80% 90%;
+}
+
+#wp_web .port .wp_fill21 {
+  -webkit-animation: zoom 1.8s cubic-bezier(0.76, 0.41, 0.2, 0.62) infinite alternate;
+          animation: zoom 1.8s cubic-bezier(0.76, 0.41, 0.2, 0.62) infinite alternate;
+}
+
+#wp_web .port .wp_fill25 {
+  -webkit-animation: zoom 1.6s cubic-bezier(0.76, 0.41, 0.2, 0.62) infinite alternate;
+          animation: zoom 1.6s cubic-bezier(0.76, 0.41, 0.2, 0.62) infinite alternate;
+}
+
+#wp_web .port .wp_fill26 {
+  animation: zoom 1.4s cubic-bezier(0.76, 0.41, 0.2, 0.62) infinite alternate-reverse;
+}
+
+#wp_web .wifi path {
+  -webkit-transform: scale(0);
+          transform: scale(0);
+  -webkit-transform-origin: 65% 15%;
+          transform-origin: 65% 15%;
+  opacity: 0;
+}
+
+#wp_web .wifi path:nth-child(1) {
+  -webkit-animation: zoom 0.7s ease-in-out forwards 0.2s;
+          animation: zoom 0.7s ease-in-out forwards 0.2s;
+}
+
+#wp_web .wifi path:nth-child(2) {
+  -webkit-animation: zoom 0.7s ease-in-out forwards 0.4s;
+          animation: zoom 0.7s ease-in-out forwards 0.4s;
+}
+
+#wp_web .wifi path:nth-child(3) {
+  -webkit-animation: zoom 0.7s ease-in-out forwards 0.6s;
+          animation: zoom 0.7s ease-in-out forwards 0.6s;
+}
+
+#wp_web .mob_boxes polygon {
+  -webkit-transform: scale(0);
+          transform: scale(0);
+  -webkit-transform-origin: 85% 75%;
+          transform-origin: 85% 75%;
+}
+
+#wp_web .mob_boxes polygon:nth-child(1) {
+  -webkit-animation: zoom 0.7s ease-in-out forwards 0.6s;
+          animation: zoom 0.7s ease-in-out forwards 0.6s;
+}
+
+#wp_web .mob_boxes polygon:nth-child(2) {
+  -webkit-animation: zoom 0.7s ease-in-out forwards 1.2s;
+          animation: zoom 0.7s ease-in-out forwards 1.2s;
+}
+
+#wp_web .mob_boxes polygon:nth-child(3) {
+  -webkit-animation: zoom 0.7s ease-in-out forwards 1.8s;
+          animation: zoom 0.7s ease-in-out forwards 1.8s;
+}
+
+#wp_web .mob_boxes polygon:nth-child(4) {
+  -webkit-animation: zoom 0.7s ease-in-out forwards 2.4s;
+          animation: zoom 0.7s ease-in-out forwards 2.4s;
+}
+
+#wp_web .mob_boxes polygon:nth-child(5) {
+  -webkit-animation: zoom 0.7s ease-in-out forwards 3s;
+          animation: zoom 0.7s ease-in-out forwards 3s;
+}
+
+#wp_web .pi_chart {
+  -webkit-transform: scale(0);
+          transform: scale(0);
+  -webkit-transform-origin: 70% 55%;
+          transform-origin: 70% 55%;
+  -webkit-animation: zoom .9s ease-in-out forwards 1.7s;
+          animation: zoom .9s ease-in-out forwards 1.7s;
+}
+
+#wp_web .tab_lines polygon {
+  -webkit-transform: scalex(0);
+          transform: scalex(0);
+  -webkit-transform-origin: 80%;
+          transform-origin: 80%;
+}
+
+#wp_web .tab_lines polygon:nth-child(1) {
+  -webkit-animation: zoom 0.5s ease-in-out forwards 1.6s;
+          animation: zoom 0.5s ease-in-out forwards 1.6s;
+}
+
+#wp_web .tab_lines polygon:nth-child(2) {
+  -webkit-animation: zoom 0.5s ease-in-out forwards 2.6s;
+          animation: zoom 0.5s ease-in-out forwards 2.6s;
+}
+
+#wp_web .tab_lines polygon:nth-child(3) {
+  -webkit-animation: zoom 0.5s ease-in-out forwards 3.6s;
+          animation: zoom 0.5s ease-in-out forwards 3.6s;
+}
+
+#wp_web .tab_lines polygon:nth-child(4) {
+  -webkit-animation: zoom 0.5s ease-in-out forwards 4.6s;
+          animation: zoom 0.5s ease-in-out forwards 4.6s;
+}
+
+#wp_web .tab_lines polygon:nth-child(5) {
+  -webkit-animation: zoom 0.5s ease-in-out forwards 5.6s;
+          animation: zoom 0.5s ease-in-out forwards 5.6s;
+}
+
+#wp_web .pc_boxes polygon {
+  -webkit-transform: scale(0);
+          transform: scale(0);
+  -webkit-transform-origin: 30% 55%;
+          transform-origin: 30% 55%;
+}
+
+#wp_web .pc_boxes polygon:nth-child(1) {
+  -webkit-animation: zoom 0.7s ease-in-out forwards 0.6s;
+          animation: zoom 0.7s ease-in-out forwards 0.6s;
+}
+
+#wp_web .pc_boxes polygon:nth-child(2) {
+  -webkit-animation: zoom 0.7s ease-in-out forwards 1.2s;
+          animation: zoom 0.7s ease-in-out forwards 1.2s;
+}
+
+#wp_web .pc_boxes polygon:nth-child(3) {
+  -webkit-animation: zoom 0.7s ease-in-out forwards 1.8s;
+          animation: zoom 0.7s ease-in-out forwards 1.8s;
+}
+
+#wp_web .pc_boxes polygon:nth-child(4) {
+  -webkit-animation: zoom 0.7s ease-in-out forwards 2.4s;
+          animation: zoom 0.7s ease-in-out forwards 2.4s;
+}
+
+#wp_web .pc_boxes polygon:nth-child(5) {
+  -webkit-animation: zoom 0.7s ease-in-out forwards 3s;
+          animation: zoom 0.7s ease-in-out forwards 3s;
+}
+
+#wp_web .pc_boxes polygon:nth-child(6) {
+  -webkit-animation: zoom 0.7s ease-in-out forwards 3.6s;
+          animation: zoom 0.7s ease-in-out forwards 3.6s;
+}
+
+#wp_web .pc_lines polygon {
+  -webkit-transform: scalex(0);
+          transform: scalex(0);
+  -webkit-transform-origin: 45%;
+          transform-origin: 45%;
+}
+
+#wp_web .pc_lines polygon:nth-child(1) {
+  -webkit-animation: zoom 0.4s ease-in-out forwards 1.3s;
+          animation: zoom 0.4s ease-in-out forwards 1.3s;
+}
+
+#wp_web .pc_lines polygon:nth-child(2) {
+  -webkit-animation: zoom 0.4s ease-in-out forwards 2.3s;
+          animation: zoom 0.4s ease-in-out forwards 2.3s;
+}
+
+#wp_web .pc_lines polygon:nth-child(3) {
+  -webkit-animation: zoom 0.4s ease-in-out forwards 3.3s;
+          animation: zoom 0.4s ease-in-out forwards 3.3s;
+}
+
+#wp_web .pc_lines polygon:nth-child(4) {
+  -webkit-animation: zoom 0.4s ease-in-out forwards 4.3s;
+          animation: zoom 0.4s ease-in-out forwards 4.3s;
+}
+
+#wp_web .pc_lines polygon:nth-child(5) {
+  -webkit-animation: zoom 0.4s ease-in-out forwards 5.3s;
+          animation: zoom 0.4s ease-in-out forwards 5.3s;
+}
+
+#wp_web .smoke {
+  -webkit-transform: scale(0);
+          transform: scale(0);
+  -webkit-transform-origin: 0% 50%;
+          transform-origin: 0% 50%;
+  opacity: 0;
+  -webkit-animation: zoom 1.5s ease-in-out forwards 1.2s;
+          animation: zoom 1.5s ease-in-out forwards 1.2s;
+}
+
+#wp_web .play_btn {
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+  opacity: .9;
+  -webkit-transform-origin: 90% 20%;
+          transform-origin: 90% 20%;
+  -webkit-animation: zoom 1.5s ease-in-out infinite alternate;
+          animation: zoom 1.5s ease-in-out infinite alternate;
+}
+
+#wp_web .cursor {
+  -webkit-transform: translate3d(30%, 50%, 0);
+          transform: translate3d(30%, 50%, 0);
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  -webkit-animation: go 1.6s cubic-bezier(0.71, 0.18, 0.41, 0.88) forwards 0.3s;
+          animation: go 1.6s cubic-bezier(0.71, 0.18, 0.41, 0.88) forwards 0.3s;
+}
+
+#wp_web .girl .leg {
+  -webkit-transform: rotate(3deg);
+          transform: rotate(3deg);
+  -webkit-transform-origin: 75% 65%;
+          transform-origin: 75% 65%;
+  -webkit-animation: zoom 1.5s cubic-bezier(0.76, 0.41, 0.2, 0.62) infinite alternate;
+          animation: zoom 1.5s cubic-bezier(0.76, 0.41, 0.2, 0.62) infinite alternate;
+}
+
+#wp_web .girl .hair {
+  -webkit-transform: rotate(-2.5deg);
+          transform: rotate(-2.5deg);
+  -webkit-transform-origin: 65% 45%;
+          transform-origin: 65% 45%;
+  -webkit-animation: zoom 2.3s cubic-bezier(0.76, 0.41, 0.2, 0.62) infinite alternate;
+          animation: zoom 2.3s cubic-bezier(0.76, 0.41, 0.2, 0.62) infinite alternate;
+}
+
+#wp_web .girl polygon:first-child {
+  -webkit-transform: rotate(-7deg);
+          transform: rotate(-7deg);
+  -webkit-transform-origin: 60% 55%;
+          transform-origin: 60% 55%;
+  -webkit-animation: zoom 1.7s cubic-bezier(0.6, 0.07, 0.29, 0.51) infinite alternate;
+          animation: zoom 1.7s cubic-bezier(0.6, 0.07, 0.29, 0.51) infinite alternate;
+}
+
+#wp_web .girl polygon:first-child + path {
+  -webkit-transform: rotate(-8deg);
+          transform: rotate(-8deg);
+  -webkit-transform-origin: 60% 55%;
+          transform-origin: 60% 55%;
+  -webkit-animation: zoom 1.7s cubic-bezier(0.6, 0.07, 0.29, 0.51) infinite alternate;
+          animation: zoom 1.7s cubic-bezier(0.6, 0.07, 0.29, 0.51) infinite alternate;
+}
+
+@-webkit-keyframes go {
+  100% {
+    -webkit-transform: translate(0, 0) scale(1);
+            transform: translate(0, 0) scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes go {
+  100% {
+    -webkit-transform: translate(0, 0) scale(1);
+            transform: translate(0, 0) scale(1);
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes zoom {
+  100% {
+    -webkit-transform: scale(1) rotate(0);
+    opacity: 1;
+  }
+}
+
+@keyframes zoom {
+  100% {
+    -webkit-transform: scale(1) rotate(0);
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes show {
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes show {
+  100% {
+    opacity: 1;
+  }
+}
+/*# sourceMappingURL=hero.css.map */

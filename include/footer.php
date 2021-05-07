@@ -1,75 +1,160 @@
-   <!--footer area start here-->
-   <footer class="footer-area pt-100 footer-bg">
-        <div class="container">
-            <div class="row pb-100 ft-po">
-                <div class="col-lg-4 col-sm-6 sm-order-4">
-                    <div class="company-menu get-bottom animate">
-                        <!-- <h3 class="pb-50 pb-sm-15 text-white text-capital">
-                            
-                        </h3> -->
-                        <img src="assets/img/logo-white.png" alt="" width="150px">
-                        <ul class="animate">
-                            <li class="pb-10 text-regular text-gray animate justified">We are a Software Development Company in Pune priding itself on our Website Development services. Our experts help you make a statement by designing and maintaining an attractive and sophisticated platform built to attract more business your way, be it in the form of a website or a mobile application.</li>
-                           
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 sm-order-1">
-                    <div class="d-flex justify-content-lg-center justify-content-start h3-ft-cmn justify-content-md-center">
-                        <div class="company-menu comon-footer mb-md-50 get-bottom animate">
-                            <h3 class="pb-50 pb-sm-15 text-white">Our Company</h3>
-                            <ul class="animate get-bottom">
-                                <li class="animate"><a href="#">About Us</a></li>
-                                <!-- <li class="animate"><a href="#">Services</a></li> -->
-                                <li class="animate"><a href="#">Our Clients</a></li>
-                                <li class="animate"><a href="#">Latest Blogs</a></li>
-                                <li class="animate"><a href="#">Contact</a></li>
+       <!--==========================
+          Footer
+        ============================-->
+        <footer id="footer">
+            <div class="footer-top">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-5 col-md-5 footer-info">
+                             <a href="index.html" class="scrollto"><img style="margin-bottom: 20px;width: 34%;" src="img/logo-white.png" alt="" class="img-fluid"></a>
+                            <p>
+                              We are a Software Development Company in Pune priding itself on our Website Development services. Our experts help you make a statement by designing and maintaining an attractive and sophisticated platform built to attract more business your way, be it in the form of a website or a mobile application
+                            </p>
+                          
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-3 footer-links">
+                            <h4>Useful Links</h4>
+                            <ul>
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="">About us</a></li>
+                                <li><a href="">Services</a></li>
+                                <li><a href="">Clients </a></li>
+                                <li><a href="">Blogs</a></li>
                             </ul>
                         </div>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-sm-6 sm-order-2 mb-sm-50">
-                    <div class="d-flex justify-content-lg-center h3-ft-cmn justify-content-start">
-                        <div class="company-menu comon-footer get-bottom animate">
-                            <h3 class="pb-50 pb-sm-15 text-white text-capital">Service</h3>
-                            <ul class=" animate get-bottom">
-                                <li class="animate"><a href="#">Web Development</a></li>
-                                <li class="animate"><a href="#">Mobile Application </a></li>
-                                <li class="animate"><a href="#">UX / UI Design</a></li>
-                                <li class="animate"><a href="#">Digital Marketing</a></li>
-                                <!-- <li class="animate"><a href="#">seo consultation</a></li> -->
-                            </ul>
+
+                        <div class="col-lg-4 col-md-4 footer-contact">
+                            <h4>Contact Us</h4>
+                            <p>
+                               <!-- A-102, Meghmalhar Complex, Above Maratha Hotel Cannought, N 5, Cidco, Aurangabad, Maharashtra 431003<br> -->
+                               <strong>Phone:</strong> +91 860 0732 432 / 957 9942 949<br>
+                                <strong>Email:</strong> info@SoftEzi.com<br>
+                            </p>
+
+                            <div class="social-links">
+                              
+                                <a href="" class="facebook"><i class="fa fa-facebook"></i></a>
+                                <a href="" class="instagram"><i class="fa fa-instagram"></i></a>
+                                
+                                <a href="" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                            </div>
+
                         </div>
+
+                      
+
                     </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 sm-order-3 mb-sm-50">
-                    <div class="d-flex justify-content-lg-end h3-ft-cmn justify-content-start justify-content-md-center">
-                        <div class="company-menu  get-bottom animate">
-                            <h3 class="pb-50 pb-sm-15 text-white text-capital animate">Need Help?</h3>
-                            <ul class="get-bottom animate">
-                            <li class="pb-20"><a class="text-regular text-white text-sbold animate" href="mailto:info@softezi.com">info@softezi.com</a></li>
-                            <li class="animate"><a class="text-regular text-white text-sbold animate" href="#">+91 860 0732 432</a></li>
-                            <li class="animate pb-20"><a  class="text-regular text-white text-sbold animate"href="#">+91 957 9942 949</a></li>
-                            <li class="animate">
-                                <ul class="d-flex flex-wrap align-items-center">
-                                <li><a class="text-20 text-white social-round mr-15 bg-icon icon-animation" href="#"><i class="icofont-facebook"></i></a></li>
-                                    <li><a class="text-20 text-white social-round mr-15 bg-icon icon-animation" href="#"><i class="icofont-twitter"></i></a></li>
-                                    <li><a class="text-20 text-white social-round mr-15 bg-icon icon-animation" href="#"><i class="icofont-instagram"></i></a></li>
-                                    <li><a class="text-20 text-white social-round bg-icon icon-animation" href="#"><i class="icofont-linkedin"></i></a></li>
-                                </ul>
-                            </li>
-                            </ul>
-                        </div>
-                    </div>
+
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="copy-right text-center pb-50 pt-md-50 get-top animate">
-                        <p class="text-gray">©SoftEzi 2021. All rights reserved.</p>
-                    </div>
+
+            <div class="container">
+                <div class="copyright">
+                    &copy; Copyright <strong><a href="index.html" style="color:white;">SoftEzi
                 </div>
             </div>
-        </div>
-    </footer>
-    <!--footer area end here-->
+               <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+        </footer>
+    
+     
+      
+        <script src="lib/jquery/jquery.min.js"></script>
+        <script src="lib/jquery/jquery-migrate.min.js"></script>
+        <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="lib/easing/easing.min.js"></script>
+        <script src="lib/mobile-nav/mobile-nav.js"></script>
+        <script src="lib/wow/wow.min.js"></script>
+        <script src="lib/waypoints/waypoints.min.js"></script>
+        <script src="lib/counterup/counterup.min.js"></script>
+        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/isotope/isotope.pkgd.min.js"></script>
+        <script src="lib/lightbox/js/lightbox.min.js"></script>
+        <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.js"></script>
+        <!-- Contact Form JavaScript File 
+        <script src="contactform/contactform.js"></script>-->
+
+        <!-- Template Main Javascript File -->
+        <script src="js/main.js"></script>
+        <!--For modal-->
+  
+        <!--finished-->
+   <!--For Read More Button-->
+   <script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
+<!--Start of Tawk.to Script-->
+
+<!--End of Tawk.to Script-->
+<script>var options = {
+  accessibility: true,
+  prevNextButtons: true,
+  pageDots: true,
+  setGallerySize: false,
+  arrowShape: {
+    x0: 10,
+    x1: 60,
+    y1: 50,
+    x2: 60,
+    y2: 45,
+    x3: 15
+  }
+};
+
+var carousel = document.querySelector('[data-carousel]');
+var slides = document.getElementsByClassName('carousel-cell');
+var flkty = new Flickity(carousel, options);
+
+flkty.on('scroll', function () {
+  flkty.slides.forEach(function (slide, i) {
+    var image = slides[i];
+    var x = (slide.target + flkty.x) * -1/3;
+    image.style.backgroundPosition = x + 'px';
+  });
+});
+var elem = document.querySelector(".carousel-container");
+var flkty = new Flickity(elem, {
+  // options
+  cellAlign: "right",
+  contain: true,
+  initialIndex: 0,
+  pageDots: false,
+  wrapAround: true,
+  autoPlay: 4000,
+  draggable: true,
+  prevNextButtons: false,
+  pauseAutoPlayOnHover: false
+});
+</script>
+<script>
+  	/**********************/
+	/*	Client carousel   */
+	/**********************/
+	$('.carousel-client').bxSlider({
+		auto: true,
+	    slideWidth: 234,
+	    minSlides: 2,
+	    maxSlides: 5,
+	    controls: false
+	});
+</script>
+    </body>
+</html>

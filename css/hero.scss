@@ -1,0 +1,295 @@
+.bg-dark {
+  background: hsl(266, 100%, 38%);
+}
+.mt-3 {
+  margin-top: 3rem;
+}
+.mb-5 {
+  margin-bottom: 5rem;
+}
+
+.br-7 {
+  border-radius:7px;
+}
+.pl-3 {
+  padding-left:3rem;
+}
+.pb-3 {
+  padding-bottom:3rem;
+}
+
+.card {
+  border: 2px solid hsl(266, 100%, 38%);
+  border-radius: 7px;
+  padding: 1rem;
+  position: relative;
+  cursor: default;
+  margin: 0px 0px 35px 0px;
+      color: hsl(266, 100%, 38%);
+  
+  & > * {
+    position: relative;
+    z-index: 1;
+  }
+  
+  &.dark {
+    border: 2px solid #fff;
+    color: #fff;
+    & .background {
+      background: #000;
+    }
+    &::before {
+      background: rgba(255,255,255,1);
+    }
+
+    &:hover {
+      color: hsl(266, 100%, 38%);
+    }
+
+    & .card-icon {
+      & .wrap {
+        background: hsl(266, 100%, 38%);
+        color: #fff;
+      }
+    }
+  }
+
+  & .background {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #fff;
+    z-index: -1;
+  }
+
+  &::before {
+    content: "";
+    width: 0%;
+    height: 100%;
+    position: absolute;
+    border-radius: 0 50% 50% 0;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    transition: 0.3s;
+    background: hsl(266, 100%, 38%);
+  }
+  &:hover {
+    color: #fff;
+    &::before {
+      border-radius: 0;
+      width: 100%;
+    }
+  }
+
+  & .card-icon {
+    font-size: 2.5rem;
+    margin-bottom: .75em;
+    & .wrap {
+      background: #fff;
+      width: 1.7em;
+      height: 1.7em;
+      text-align: center;
+      border-radius: 50%;
+      position: absolute;
+      margin-top: -1.3em;
+      color: hsl(266, 100%, 38%);
+      top: 0;
+      left: 0;
+      right: 0;
+      margin-left: auto;
+      margin-right: auto;
+      & i {
+        margin-top: .3em;
+      }
+    }
+  }
+  
+  
+  & .card-title {
+    font-size: 1.75rem;
+    text-align: center;
+    margin-bottom: .75em;
+  }
+  
+  & .card-content {
+    padding-left: 1em;
+    padding-right: 1em;
+    text-align: justify;
+  }
+}
+
+
+svg{
+  display: block;
+  margin: 0 auto;
+  max-width: 650px;
+}
+g{
+  perspective: 150px;
+}
+#wp_web{
+  overflow: visible;
+  .main_pc,.main_tab,.main_mob{
+    transform-style: preserve-3d;
+    transform: translate3d(0,70%,0) scale(0);
+    animation: go .8s ease-in-out forwards;
+    transform-origin: 40% 45%;
+  }
+  .main_tab{
+    transform-origin: 80% 45%;
+  }
+  .main_mob{
+    transform-origin: 30% 45%; 
+  }
+  .wp_logo{
+    transform: scale(1.5);
+    opacity: 0;
+    transform-origin: 15%;
+    animation: zoom .9s ease-in-out forwards 1.6s;
+  }
+  .pc_shine{
+    opacity: 0;
+    animation: zoom .8s ease-in-out forwards 1.9s;
+  }
+  .port{
+    opacity: 0;
+    transform: scaley(2);
+        animation: zoom 1s ease-in-out forwards .5s;
+    path{
+      transform: rotate(2deg);
+      transform-origin: 80% 90%;
+    }
+    .wp_fill21{
+      animation: zoom 1.8s cubic-bezier(0.76, 0.41, 0.2, 0.62) infinite alternate;
+    }
+    .wp_fill25{
+      animation: zoom 1.6s cubic-bezier(0.76, 0.41, 0.2, 0.62) infinite alternate;
+    }
+    .wp_fill26{
+      animation: zoom 1.4s cubic-bezier(0.76, 0.41, 0.2, 0.62) infinite alternate-reverse;
+    }
+  }
+  .wifi{
+    path{
+      transform: scale(0);
+      transform-origin: 65% 15%;
+      opacity: 0;
+      @for $i from 1 through 3{
+        &:nth-child(#{$i}){
+          animation: zoom .7s ease-in-out forwards #{$i*0.2}s;
+        }
+      }
+    }
+  }
+  .mob_boxes{
+    polygon{
+      transform: scale(0);
+      transform-origin: 85% 75%; 
+      @for $i from 1 through 5{
+        &:nth-child(#{$i}){
+          animation: zoom .7s ease-in-out forwards #{$i * 0.6}s;
+        }
+      }
+    }
+  }
+  .pi_chart{
+    transform: scale(0);
+    transform-origin: 70% 55%;
+    animation: zoom .9s ease-in-out forwards 1.7s;
+  }
+  .tab_lines{
+    polygon{
+      transform: scalex(0);
+      transform-origin: 80%;
+      @for $i from 1 through 5{
+        &:nth-child(#{$i}){
+          animation: zoom .5s ease-in-out forwards #{$i + 0.6}s;
+        }
+      }
+    }
+  }
+  .pc_boxes{
+    polygon{
+      transform: scale(0);
+      transform-origin: 30% 55%; 
+      @for $i from 1 through 6{
+        &:nth-child(#{$i}){
+          animation: zoom .7s ease-in-out forwards #{$i * 0.6}s;
+        }
+      }
+    }
+  }
+  .pc_lines{
+    polygon{
+      transform: scalex(0);
+      transform-origin: 45%;
+      @for $i from 1 through 5{
+        &:nth-child(#{$i}){
+          animation: zoom .4s ease-in-out forwards #{$i + 0.3}s;
+        }
+      }
+    }
+  }
+  .smoke{
+    transform: scale(0);
+    transform-origin: 0% 50%;
+    opacity: 0;
+    animation: zoom 1.5s ease-in-out forwards 1.2s;
+  }
+  .play_btn{
+    transform: scale(.9);
+    opacity: .9;
+    transform-origin: 90% 20%;
+    animation: zoom 1.5s ease-in-out infinite alternate;
+  }
+  .cursor{
+    transform: translate3d(30%,50%,0);
+    transform-style: preserve-3d;
+    animation: go 1.6s cubic-bezier(0.71, 0.18, 0.41, 0.88) forwards .3s;
+  }
+  .girl{
+    .leg{
+      transform: rotate(3deg);
+      transform-origin: 75% 65%;
+      animation: zoom 1.5s cubic-bezier(0.76, 0.41, 0.2, 0.62) infinite alternate;
+    }
+    .hair{
+      transform: rotate(-2.5deg);
+      transform-origin: 65% 45%;
+      animation: zoom 2.3s cubic-bezier(0.76, 0.41, 0.2, 0.62) infinite alternate;
+    }
+    polygon:first-child{
+      transform: rotate(-7deg);
+      transform-origin: 60% 55%;
+      animation: zoom 1.7s cubic-bezier(0.6, 0.07, 0.29, 0.51) infinite alternate;
+      &+path{
+        transform: rotate(-8deg);
+      transform-origin: 60% 55%;
+      animation: zoom 1.7s cubic-bezier(0.6, 0.07, 0.29, 0.51) infinite alternate;
+      }
+    }
+  }
+}
+
+
+@keyframes go{
+  100%{
+    transform: translate(0,0) scale(1);
+    opacity: 1;
+  }
+}
+@keyframes zoom{
+  100%{
+    -webkit-transform: scale(1) rotate(0);
+    opacity: 1;
+  }
+}
+
+@keyframes show{
+  100%{
+    opacity: 1;
+  }
+}

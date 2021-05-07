@@ -1,0 +1,1012 @@
+Uri: https://www.ewebdigital.com/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\index.htm
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/img/favicon1.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\favicon1.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\css.css
+Content Type: text/css
+
+Uri: https://www.ewebdigital.com/lib/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.ewebdigital.com/lib/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.ewebdigital.com/lib/animate/animate.min.css
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://www.ewebdigital.com/lib/ionicons/css/ionicons.min.css
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\ionicons\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://www.ewebdigital.com/lib/owlcarousel/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\owlcarousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://www.ewebdigital.com/lib/lightbox/css/lightbox.min.css
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\lightbox\css\lightbox.min.css
+Content Type: text/css
+
+Uri: https://www.ewebdigital.com/css/style.css
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\css\style.css
+Content Type: text/css
+
+Uri: https://www.ewebdigital.com/about
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\about.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/it-outsourcing-services-india
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\it-outsourcing-services-india.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/web-development-company
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\web-development-company.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/software-development-company
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\software-development-company.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/ios-android-app-development-company
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\ios-android-app-development-company.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/top-digital-marketing-company
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\top-digital-marketing-company.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/ecommerce-development-company
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\ecommerce-development-company.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/cheap-web-hosting-company
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\cheap-web-hosting-company.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/vegetable-app
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\vegetable-app.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/portfolio
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\portfolio.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/best-digital-marketing-courses
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\best-digital-marketing-courses.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/email-marketing.html
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\email-marketing.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/content-marketing.html
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\content-marketing.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/affiliate-marketing.html
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\affiliate-marketing.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/paid-search-marketing.html
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\paid-search-marketing.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/smo.html
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\smo.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/seo.html
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\seo.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/website-design-courses
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\website-design-courses.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/best-python-classes
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\best-python-classes.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/best-java-language-classes
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\best-java-language-classes.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/best-php-language-classes
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\best-php-language-classes.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/bootstrap-classes
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\bootstrap-classes.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/best-c++-classes
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\best-c  -classes.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/best-c-language-classes
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\best-c-language-classes.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/best-graphics-designing-courses
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\best-graphics-designing-courses.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/best-app-development-courses
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\best-app-development-courses.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/contact-us
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\contact-us.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/index.html
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\index.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/terms&conditions.html
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\terms&conditions.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/privacy-policy.html
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://twitter.com/search?q=ewebdigital&src=typed_query
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\search.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/ewebdigital
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\ewebdigital.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/img/logo.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logo.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/intro-img.svg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\intro-img.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ewebdigital.com/img/about-img.svg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\about-img.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ewebdigital.com/img/about-extra-1.svg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\about-extra-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ewebdigital.com/img/about-extra-2.svg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\about-extra-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ewebdigital.com/img/clients/logo1.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\clients\logo1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/clients/logo5.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\clients\logo5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/clients/logo6.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\clients\logo6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/clients/logo7.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\clients\logo7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/clients/logo9.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\clients\logo9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/clients/logo10.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\clients\logo10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/clients/tech.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\clients\tech.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/clients/logo12.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\clients\logo12.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/Testimonial/testimonial1.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\Testimonial\testimonial1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/Testimonial/testimonial2.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\Testimonial\testimonial2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/logofooter.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logofooter.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/lib/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/lib/jquery/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/lib/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/lib/easing/easing.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\easing\easing.min.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/lib/mobile-nav/mobile-nav.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\mobile-nav\mobile-nav.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/lib/wow/wow.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\wow\wow.min.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/lib/waypoints/waypoints.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/lib/counterup/counterup.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\counterup\counterup.min.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/lib/owlcarousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\owlcarousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/lib/isotope/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\isotope\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/lib/lightbox/js/lightbox.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\lightbox\js\lightbox.min.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/js/main.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-144584520-1
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ewebdigital.com/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ewebdigital.com/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.ewebdigital.com/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.ewebdigital.com/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.ewebdigital.com/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ewebdigital.com/lib/ionicons/fonts/ionicons.eot?v=2.0.0
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\ionicons\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ewebdigital.com/lib/ionicons/fonts/ionicons.ttf?v=2.0.0
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\ionicons\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.ewebdigital.com/lib/ionicons/fonts/ionicons.woff?v=2.0.0
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\ionicons\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://www.ewebdigital.com/lib/ionicons/fonts/ionicons.svg?v=2.0.0
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\ionicons\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ewebdigital.com/lib/owlcarousel/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\owlcarousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/lib/lightbox/images/loading.gif
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\lightbox\images\loading.gif
+Content Type: image/gif
+
+Uri: https://www.ewebdigital.com/lib/lightbox/images/prev.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\lightbox\images\prev.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/lib/lightbox/images/next.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\lightbox\images\next.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/lib/lightbox/images/close.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\lib\lightbox\images\close.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/intro-bg.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\intro-bg.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/Web-Development.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\Web-Development.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/Services - Website Design & Development.svg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\Services - Website Design & Development.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ewebdigital.com/img/CMS.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\CMS.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/Web Application Development.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\Web Application Development.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/responsive design.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\responsive design.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/graphics design.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\graphics design.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/it-outsourcing-services-india.html
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\it-outsourcing-services-india-1.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/img/Software Development11.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\Software Development11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/Custom Software Development11.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\Custom Software Development11.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/enterprise-resource-planning.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\enterprise-resource-planning.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/crm.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\crm.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/mobile.svg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ewebdigital.com/img/Android Application.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\Android Application.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/windows Application.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\windows Application.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/Apple Application.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\Apple Application.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/digital-marketing.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\digital-marketing.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/digital marketing.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\digital marketing.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/seo.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\seo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/smo.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\smo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/email.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\email.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/Content Marketing.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\Content Marketing.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/Paid Search.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\Paid Search.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/affiliate marketing.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\affiliate marketing.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/about.html
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\about-1.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/img/ecommerce.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\ecommerce.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/ecommerce1.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\ecommerce1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/ecommerce-platforms.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\ecommerce-platforms.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/clients/veg1.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\clients\veg1.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/clients/veg3.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\clients\veg3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/clients/veg1.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\clients\veg1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/portfolio/app11.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\portfolio\app11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/logoeweb/6 (1).jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\6 (1).jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/logoeweb/FInal Logo.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\FInal Logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/logoeweb/Capture9.PNG
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\Capture9.PNG
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/portfolio/app12.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\portfolio\app12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/portfolio/app13.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\portfolio\app13.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/logoeweb/Capture7.PNG
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\Capture7.PNG
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/logoeweb/sankalp fund.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\sankalp fund.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/logoeweb/sahas (4).jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\sahas (4).jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/logoeweb/Capture6.PNG
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\Capture6.PNG
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/logoeweb/Logo New (1).jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\Logo New (1).jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/logoeweb/madilgekar logo.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\madilgekar logo.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/logoeweb/Capture4.PNG
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\Capture4.PNG
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/logoeweb/6793997_preview.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\6793997_preview.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/logoeweb/sankalp edu (3).jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\sankalp edu (3).jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/logoeweb/26023989_1895812737114481_7881337811615735461_o (1).jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\26023989_1895812737114481_7881337811615735461_o (1).jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/logoeweb/final GTA LOgo (1).png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\final GTA LOgo (1).png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/logoeweb/Capture3.PNG
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\Capture3.PNG
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/logoeweb/final logo panchfula masale.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\final logo panchfula masale.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/logoeweb/Capture2.PNG
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\Capture2.PNG
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/logoeweb/final.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\final.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/logoeweb/Capture5.PNG
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\Capture5.PNG
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/logoeweb/1 (1).jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\1 (1).jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/logoeweb/Capture.PNG
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\logoeweb\Capture.PNG
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=News+Cycle:400,700
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\css-1.css
+Content Type: text/css
+
+Uri: https://www.w3schools.com/w3css/4/w3.css
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\w3css\4\w3.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\ajax\libs\twitter-bootstrap\4.0.0-beta\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.css
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\ajax\libs\toastr.js\latest\css\toastr.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\ajax\libs\jquery\3.2.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\ajax\libs\popper.js\1.11.0\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\ajax\libs\twitter-bootstrap\4.0.0-beta\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\ajax\libs\jquery-validate\1.19.1\jquery.validate.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\ajax\libs\toastr.js\latest\js\toastr.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\jquery.validation\1.16.0\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/img/testimonial-1.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\testimonial-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/testimonial-2.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\testimonial-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/emark1.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\emark1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/emark2.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\emark2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/contentmark1.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\contentmark1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/contentmark2.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\contentmark2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/affiliate1.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\affiliate1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/affiliate3.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\affiliate3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/paid2.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\paid2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/paid1.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\paid1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/smo1.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\smo1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/SMO2.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\SMO2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/favicon.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\favicon.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/img/SEO1.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\SEO1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/SEO2.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\SEO2.png
+Content Type: image/png
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1577.6285818019696!2d75.32706050298191!3d19.871482412587742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdb98670accd4cb:0xb8159ca9fa7a21f7!2sBhanudas Sabhahgrah Railway Station Rd%2C New Usmanpura%2C Pannalal Nagar%2C Aurangabad%2C Maharashtra!5e0!3m2!1sen!2sin!4v1573121767404!5m2!1sen!2sin
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\maps\embed.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/img/website1.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\website1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/python.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\python.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/java.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\java.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/php.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\php.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/bootstrap.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\bootstrap.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/c++.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\c  .jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/c.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/graphics.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\graphics.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/img/app_develop.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\img\app_develop.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ewebdigital.com/blog/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/blog/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\index-1.htm
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\xfn\11.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/blog/feed/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://www.ewebdigital.com/blog/comments/feed/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://www.ewebdigital.com/blog/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://www.ewebdigital.com/blog/wp-content/themes/blog-guten/assets/css/bootstrap.css?ver=v4.3.1
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\themes\blog-guten\assets\css\bootstrap.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Barlow:400%2C400i%2C600%2C600i&display=swap&ver=5.5.3
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\css-2.css
+Content Type: text/css
+
+Uri: http://www.ewebdigital.com/blog/wp-content/themes/blog-guten/assets/css/slicknav.css?ver=v1.0.10
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\themes\blog-guten\assets\css\slicknav.css
+Content Type: text/css
+
+Uri: http://www.ewebdigital.com/blog/wp-content/themes/blog-guten/style.css?ver=v1.0.8
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\themes\blog-guten\style.css
+Content Type: text/css
+
+Uri: https://www.ewebdigital.com/blog/wp-json/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: http://www.ewebdigital.com/blog/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.ewebdigital.com/blog/wp-content/uploads/2020/11/cropped-logo-2-3-32x32.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\uploads\2020\11\cropped-logo-2-3-32x32.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/blog/wp-content/uploads/2020/11/cropped-logo-2-3-192x192.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\uploads\2020\11\cropped-logo-2-3-192x192.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/blog/wp-content/uploads/2020/11/cropped-logo-2-3-180x180.png
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\uploads\2020\11\cropped-logo-2-3-180x180.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/blog/digital-marketing-the-broadest-outlet-to-career-opportunity-for-women/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\digital-marketing-the-broadest-outlet-to-career-opportunity-for-women\index.htm
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/blog/author/ewebdigit/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\author\ewebdigit\index.htm
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/blog/category/uncategorized/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/blog/e-web-digital/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\e-web-digital\index.htm
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/blog/hello-world/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\hello-world\index.htm
+Content Type: text/html
+
+Uri: https://wp-points.com/themes/blog-guten/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\themes\blog-guten\index.htm
+Content Type: text/html
+
+Uri: http://www.ewebdigital.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://www.ewebdigital.com/blog/wp-content/themes/blog-guten/assets/js/jquery.slicknav.js?ver=v1.0.10
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\themes\blog-guten\assets\js\jquery.slicknav.js
+Content Type: application/javascript
+
+Uri: http://www.ewebdigital.com/blog/wp-content/themes/blog-guten/assets/js/skip-link-focus-fix.js?ver=20151215
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\themes\blog-guten\assets\js\skip-link-focus-fix.js
+Content Type: application/javascript
+
+Uri: http://www.ewebdigital.com/blog/wp-content/themes/blog-guten/assets/js/navigation.js?ver=20151215
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\themes\blog-guten\assets\js\navigation.js
+Content Type: application/javascript
+
+Uri: http://www.ewebdigital.com/blog/wp-content/themes/blog-guten/assets/js/theme.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\themes\blog-guten\assets\js\theme.js
+Content Type: application/javascript
+
+Uri: http://www.ewebdigital.com/blog/wp-includes/js/wp-embed.min.js?ver=5.5.3
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-1.11.1.min.js
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\jquery-1.11.1.min.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1876.0567866779668!2d75.36324475792607!3d19.877425619068973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdba388a7921951:0xb35510593b6d1db7!2sE Web Digital Marketing Training Institute%2C Digital Marketing Courses%2C Classes in Aurangabad%2C Digital Marketing Services Aurangabad!5e0!3m2!1sen!2sin!4v1582574068063!5m2!1sen!2sin
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\maps\embed-1.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/mobileapp.html
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\mobileapp.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/digitalmarketing.html
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\digitalmarketing.html
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/ecommerce.html
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\ecommerce.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/accounts/login/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\accounts\login\index.htm
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/blog/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://www.ewebdigital.com/blog/wp-content/themes/blog-guten/assets/css/bootstrap.css?ver=v4.3.1
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\themes\blog-guten\assets\css\bootstrap-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Barlow:400%2C400i%2C600%2C600i&display=swap&ver=5.5.3
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\css-3.css
+Content Type: text/css
+
+Uri: https://www.ewebdigital.com/blog/wp-content/themes/blog-guten/assets/css/slicknav.css?ver=v1.0.10
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\themes\blog-guten\assets\css\slicknav-1.css
+Content Type: text/css
+
+Uri: https://www.ewebdigital.com/blog/wp-content/themes/blog-guten/style.css?ver=v1.0.8
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\themes\blog-guten\style-1.css
+Content Type: text/css
+
+Uri: https://www.ewebdigital.com/blog/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-includes\wlwmanifest-1.xml
+Content Type: application/xml
+
+Uri: https://www.ewebdigital.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-includes\js\jquery\jquery-1.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/blog/wp-content/themes/blog-guten/assets/js/jquery.slicknav.js?ver=v1.0.10
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\themes\blog-guten\assets\js\jquery.slicknav-1.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/blog/wp-content/themes/blog-guten/assets/js/skip-link-focus-fix.js?ver=20151215
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\themes\blog-guten\assets\js\skip-link-focus-fix-1.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/blog/wp-content/themes/blog-guten/assets/js/navigation.js?ver=20151215
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\themes\blog-guten\assets\js\navigation-1.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/blog/wp-content/themes/blog-guten/assets/js/theme.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\themes\blog-guten\assets\js\theme-1.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/blog/wp-includes/js/wp-embed.min.js?ver=5.5.3
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-includes\js\wp-embed.min-1.js
+Content Type: application/javascript
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\index-1.htm
+Content Type: text/html
+
+Uri: http://127.0.0.1/dashboard/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\dashboard\index.htm
+Content Type: text/html
+
+Uri: https://www.ewebdigital.com/blog/digital-marketing-the-broadest-outlet-to-career-opportunity-for-women/feed/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\digital-marketing-the-broadest-outlet-to-career-opportunity-for-women\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://www.ewebdigital.com/blog/wp-json/wp/v2/posts/76
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-json\wp\v2\posts\76.json
+Content Type: application/json
+
+Uri: https://www.ewebdigital.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.ewebdigital.com%2Fblog%2Fdigital-marketing-the-broadest-outlet-to-career-opportunity-for-women%2F
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://www.ewebdigital.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.ewebdigital.com%2Fblog%2Fdigital-marketing-the-broadest-outlet-to-career-opportunity-for-women%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://www.ewebdigital.com/blog/wp-content/uploads/2020/11/ad-768x403-3.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\uploads\2020\11\ad-768x403-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/blog/wp-includes/js/comment-reply.min.js?ver=5.5.3
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://www.ewebdigital.com/blog/wp-content/uploads/2020/11/ad-768x403-3-300x157.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\uploads\2020\11\ad-768x403-3-300x157.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/blog/author/ewebdigit/feed/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\author\ewebdigit\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://www.ewebdigital.com/blog/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-json\wp\v2\users\1.json
+Content Type: application/json
+
+Uri: https://www.ewebdigital.com/blog/category/uncategorized/feed/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\category\uncategorized\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://www.ewebdigital.com/blog/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-json\wp\v2\categories\1.json
+Content Type: application/json
+
+Uri: https://www.ewebdigital.com/blog/e-web-digital/feed/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\e-web-digital\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://www.ewebdigital.com/blog/wp-json/wp/v2/posts/7
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-json\wp\v2\posts\7.json
+Content Type: application/json
+
+Uri: https://www.ewebdigital.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.ewebdigital.com%2Fblog%2Fe-web-digital%2F
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://www.ewebdigital.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.ewebdigital.com%2Fblog%2Fe-web-digital%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://www.ewebdigital.com/blog/wp-content/uploads/2020/11/23822_digital-marketing-tutte-le-chiavi-per-entrare-nel-mondo-del-lavoro-1024x640.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\uploads\2020\11\23822_digital-marketing-tutte-le-chiavi-per-entrare-nel-mondo-del-lavoro-1024x640.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/blog/wp-content/uploads/2020/11/ad-768x403-2.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\uploads\2020\11\ad-768x403-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/blog/wp-content/uploads/2020/11/23822_digital-marketing-tutte-le-chiavi-per-entrare-nel-mondo-del-lavoro-300x188.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\uploads\2020\11\23822_digital-marketing-tutte-le-chiavi-per-entrare-nel-mondo-del-lavoro-300x188.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/blog/wp-content/uploads/2020/11/23822_digital-marketing-tutte-le-chiavi-per-entrare-nel-mondo-del-lavoro-768x480.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\uploads\2020\11\23822_digital-marketing-tutte-le-chiavi-per-entrare-nel-mondo-del-lavoro-768x480.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/blog/wp-content/uploads/2020/11/23822_digital-marketing-tutte-le-chiavi-per-entrare-nel-mondo-del-lavoro.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\uploads\2020\11\23822_digital-marketing-tutte-le-chiavi-per-entrare-nel-mondo-del-lavoro.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/blog/wp-content/uploads/2020/11/ad-768x403-2-300x157.jpg
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-content\uploads\2020\11\ad-768x403-2-300x157.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ewebdigital.com/blog/hello-world/feed/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\hello-world\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://www.ewebdigital.com/blog/wp-json/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-json\wp\v2\posts\1.json
+Content Type: application/json
+
+Uri: https://www.ewebdigital.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.ewebdigital.com%2Fblog%2Fhello-world%2F
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://www.ewebdigital.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.ewebdigital.com%2Fblog%2Fhello-world%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\blog\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=32&d=mm&r=g
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\avatar\d7a973c7dab26985da5f961be7b74480.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=64&d=mm&r=g
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\avatar\d7a973c7dab26985da5f961be7b74480-1.png
+Content Type: image/png
+
+Uri: https://www.ewebdigital.com/portfolio.html
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\portfolio-1.html
+Content Type: text/html
+
+Uri: https://en.gravatar.com/
+File Name: C:\Downloaded Web Sites\www.ewebdigital.com\index-2.htm
+Content Type: text/html
+
